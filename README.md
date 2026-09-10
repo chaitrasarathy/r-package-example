@@ -4,7 +4,7 @@
 # TestingPackage
 
 ## This is an example R package developed by Anjali Silva, Instructor for BCB410 (Applied Bioinformatics), 2019-2025
-This repository has been forked from (TestingPackage)[https://github.com/anjalisilva/TestingPackage]
+This repository has been forked from [TestingPackage](https://github.com/anjalisilva/TestingPackage)
 
 <!-- badges: start -->
 
