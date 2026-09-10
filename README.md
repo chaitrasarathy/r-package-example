@@ -3,7 +3,8 @@
 
 # TestingPackage
 
-An Example R Package For BCB410H: Applied Bioinformatics.
+## This is an example R package developed by Anjali Silva, Instructor for BCB410 (Applied Bioinformatics), 2019-2025
+This repository has been forked from (TestingPackage)[https://github.com/anjalisilva/TestingPackage]
 
 <!-- badges: start -->
 
@@ -56,7 +57,7 @@ E.g., <br> <br> <br> To install the latest version of the package:
 ``` r
 install.packages("devtools")
 library("devtools")
-devtools::install_github("anjalisilva/TestingPackage", build_vignettes = TRUE)
+devtools::install_github("chaitrasarathy/r-package-example", build_vignettes = TRUE)
 library("TestingPackage")
 ```
 
@@ -184,7 +185,7 @@ and tools mentioned under ‘Contributions’, in one format. E.g., <br>
 
 Provide the following text, customized to your R package. E.g., <br>
 <br> <br> This package was developed as part of an assessment for
-2019-2025 BCB410H: Applied Bioinformatics course at the University of
+BCB410H: Applied Bioinformatics course at the University of
 Toronto, Toronto, CANADA. `TestingPackage` welcomes issues, enhancement
 requests, and other contributions. To submit an issue, use the [GitHub
 issues](https://github.com/anjalisilva/TestingPackage/issues). Many
